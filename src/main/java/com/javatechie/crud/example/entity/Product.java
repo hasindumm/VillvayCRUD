@@ -15,7 +15,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "PRODUCT_TBL")
 public class Product {
-
+//commit2
     @Id
     @GeneratedValue
     private int id;
